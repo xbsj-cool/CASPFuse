@@ -4,8 +4,8 @@
 
 ## Get start
 ```python
-    ## testing
-       python test.py 
+## testing
+   python test.py 
 ```
 
 ## Citation
