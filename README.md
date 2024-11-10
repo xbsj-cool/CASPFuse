@@ -4,6 +4,11 @@
 
 ## Get start
 ```python
+## training
+   python train.py 
+```
+
+```python
 ## testing
    python test.py 
 ```
