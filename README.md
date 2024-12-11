@@ -26,4 +26,15 @@ The training and testing data of our CASPFuse can be downloaded from: [RoadScene
     year      = {2024},
     pages     = {5558-5567}
 }
+
+@ARTICLE{10776019,
+  author={Li, Xuan and Chen, Rongfu and Wang, Jie and Chen, Weiwei and Zhou, Huabing and Ma, Jiayi},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={CASPFuse: An Infrared and Visible Image Fusion Method Based on Dual-Cycle Crosswise Awareness and Global Structure-Tensor Preservation}, 
+  year={2025},
+  volume={74},
+  number={},
+  pages={1-15},
+  keywords={Image fusion;Image edge detection;Transformers;Generators;Low-pass filters;Feature extraction;Semantics;Interference;Information filters;Image reconstruction;Deep learning;image fusion;modality transition;structure awareness},
+  doi={10.1109/TIM.2024.3509580}}
 ```
